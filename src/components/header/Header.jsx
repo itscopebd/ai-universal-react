@@ -2,8 +2,9 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
-            <h1></h1>
+        <div className='text-center'>
+            <h1 className='text-center'>AI Universe Hub</h1>
+            
         </div>
     );
 };
